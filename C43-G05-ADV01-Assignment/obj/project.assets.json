@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\welcome\\source\\repos\\C43-G05-ADV01\\C43-G05-ADV01\\C43-G05-ADV01-DEMO.csproj",
-      "projectName": "C43-G05-ADV01-DEMO",
-      "projectPath": "C:\\Users\\welcome\\source\\repos\\C43-G05-ADV01\\C43-G05-ADV01\\C43-G05-ADV01-DEMO.csproj",
+      "projectUniqueName": "C:\\Users\\welcome\\source\\repos\\C43-G05-ADV01\\C43-G05-ADV01-Assignment\\C43-G05-ADV01-Assignment.csproj",
+      "projectName": "C43-G05-ADV01-Assignment",
+      "projectPath": "C:\\Users\\welcome\\source\\repos\\C43-G05-ADV01\\C43-G05-ADV01-Assignment\\C43-G05-ADV01-Assignment.csproj",
       "packagesPath": "C:\\Users\\welcome\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\welcome\\source\\repos\\C43-G05-ADV01\\C43-G05-ADV01\\obj\\",
+      "outputPath": "C:\\Users\\welcome\\source\\repos\\C43-G05-ADV01\\C43-G05-ADV01-Assignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

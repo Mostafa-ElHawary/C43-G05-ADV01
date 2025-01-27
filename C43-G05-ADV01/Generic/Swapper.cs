@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace C43_G05_ADV01.Generic
 {
-    internal class Swapper
+    public class Swapper
     {
         public void Swap(ref int a, ref int b)
         {
@@ -16,11 +16,6 @@ namespace C43_G05_ADV01.Generic
         }
 
         // Swap strings
-        public void Swap(ref string a, ref string b)
-        {
-            string temp = a;
-            a = b;
-            b = temp;
-        }
+      
     }
 }

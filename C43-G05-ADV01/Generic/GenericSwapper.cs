@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace C43_G05_ADV01.Generic
 {
-    internal class GenericSwapper
+    public class GenericSwapper
     {
-        public void Swap<T>(ref T a, ref T b)
+        public static void SWAP<T>(ref T a, ref T b)
         {
             T temp = a;
             a = b;

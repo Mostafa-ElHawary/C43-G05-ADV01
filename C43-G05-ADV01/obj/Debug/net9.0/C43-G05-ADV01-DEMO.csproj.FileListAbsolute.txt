@@ -1,0 +1,15 @@
+C:\Users\welcome\source\repos\C43-G05-ADV01\C43-G05-ADV01\obj\Debug\net9.0\C43-G05-ADV01-DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welcome\source\repos\C43-G05-ADV01\C43-G05-ADV01\obj\Debug\net9.0\C43-G05-ADV01-DEMO.AssemblyInfoInputs.cache
+C:\Users\welcome\source\repos\C43-G05-ADV01\C43-G05-ADV01\obj\Debug\net9.0\C43-G05-ADV01-DEMO.AssemblyInfo.cs
+C:\Users\welcome\source\repos\C43-G05-ADV01\C43-G05-ADV01\obj\Debug\net9.0\C43-G05-ADV01-DEMO.csproj.CoreCompileInputs.cache
+C:\Users\welcome\source\repos\C43-G05-ADV01\C43-G05-ADV01\obj\Debug\net9.0\C43-G05-ADV01-DEMO.sourcelink.json
+C:\Users\welcome\source\repos\C43-G05-ADV01\C43-G05-ADV01\bin\Debug\net9.0\C43-G05-ADV01-DEMO.exe
+C:\Users\welcome\source\repos\C43-G05-ADV01\C43-G05-ADV01\bin\Debug\net9.0\C43-G05-ADV01-DEMO.deps.json
+C:\Users\welcome\source\repos\C43-G05-ADV01\C43-G05-ADV01\bin\Debug\net9.0\C43-G05-ADV01-DEMO.runtimeconfig.json
+C:\Users\welcome\source\repos\C43-G05-ADV01\C43-G05-ADV01\bin\Debug\net9.0\C43-G05-ADV01-DEMO.dll
+C:\Users\welcome\source\repos\C43-G05-ADV01\C43-G05-ADV01\bin\Debug\net9.0\C43-G05-ADV01-DEMO.pdb
+C:\Users\welcome\source\repos\C43-G05-ADV01\C43-G05-ADV01\obj\Debug\net9.0\C43-G05-ADV01-DEMO.dll
+C:\Users\welcome\source\repos\C43-G05-ADV01\C43-G05-ADV01\obj\Debug\net9.0\refint\C43-G05-ADV01-DEMO.dll
+C:\Users\welcome\source\repos\C43-G05-ADV01\C43-G05-ADV01\obj\Debug\net9.0\C43-G05-ADV01-DEMO.pdb
+C:\Users\welcome\source\repos\C43-G05-ADV01\C43-G05-ADV01\obj\Debug\net9.0\C43-G05-ADV01-DEMO.genruntimeconfig.cache
+C:\Users\welcome\source\repos\C43-G05-ADV01\C43-G05-ADV01\obj\Debug\net9.0\ref\C43-G05-ADV01-DEMO.dll
